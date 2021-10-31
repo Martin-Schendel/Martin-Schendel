@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Martin-Schendel
-- 👀 I’m interested in the languages Python, Swift, Java, C#, Javascript, and Objective-C
+- 👀 I’m interested in the languages Python, PHP, Java, C#, Javascript
 - 🌱 I’m currently learning a lot. 
 - 💞️ I’m looking to collaborate on *shrug*
 - 📫 How to reach me ... also *shrug*
